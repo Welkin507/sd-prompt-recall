@@ -2,6 +2,8 @@
 
 EnglishWordsElite is a lightweight English word tester designed to help users enhance their vocabulary through word recitation. The project includes a built-in **stable diffusion prompt word list** (Chinese to English). Users can also customize their word lists by following a simple process.
 
+![](./Backup/demo.png)
+
 ## Features
 
 - **Built-in Word List:** The project comes with a pre-loaded stable diffusion prompt word list (cn-en) to get you started quickly.
