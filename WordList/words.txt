@@ -14,13 +14,12 @@ guro	猎奇
 realistic	写实
 photo	照片
 real	真实
-landscape/scenery	风景
+landscape	风景
 cityscape	城市风景
 science_fiction	科技幻想
 original	原创
 parody	拙劣的模仿
 personification	拟人
-checkered	格子的
 lowres	低分辨率
 highres	高分辨率
 absurdres	超高分辨率
@@ -34,7 +33,7 @@ optical_illusion	视觉错误
 fine_art_parody	名画模仿
 sketch	素描
 traditional_media	传统媒体（基本上是手绘稿）
-watercolor_(medium)	透明水彩绘
+watercolor	水彩绘
 silhouette	剪影
 covr	封面
 album	专辑
@@ -51,7 +50,7 @@ gradient_background	渐变的背景
 zoom_layer	背景是前景的放大版
 
 
-Witch	女巫
+witch	女巫
 miko	巫女
 maid	女仆
 waitress	女服务员
@@ -68,15 +67,14 @@ monster	怪物
 devil	魔鬼（撒旦）
 vampire	吸血鬼
 magical_girl	魔法少女
-multiple_girls	魔幻少女(指有魔力的)
-furry/orc	兽人/半兽人
+furry	兽人
 male	男人
 female	女人
 giantess	女巨人
 minigirl	迷你女孩
 kemonomimi_mode	兽耳萝莉模式
 chibi	Q版人物
-trap/crossdressing	伪娘
+crossdressing	伪娘
 milf	熟女
 shota	正太
 loli	萝莉
@@ -87,8 +85,6 @@ no_humans	非人
 solo	单人
 sisters	姐妹
 siblings	兄弟姐妹
-1girl/boys	1个女人/男人
-2girls/boys	2个女人/男人
 
 makeup	浓装
 food_on_face	食物在脸上
@@ -146,16 +142,16 @@ braid	辫子
 twin_braids	双辫子
 payot	长鬓角
 wavy_hair	波浪发型
-blonde_hair/yellow_eyes	金发/金眼
-silver_hair/silver_eyes	银发/银眼
-grey_hair/grey_eyes	灰发/灰眼
-white_hair/white_eyes	白发/白眼
-brown_hair/brown_eyes	棕发/棕眼
-black_hair/black_eyes	黑发/黑眼
-purple_hair/purple_eyes	紫发/紫眼
-red_hair/red_eyes	红发/红眼
-blue_hair/blue_eyes	蓝发/蓝眼
-green_hair/green_eyes	绿发/绿眼
+blonde_hair	金发
+silver_hair	银发
+grey_hair	灰发
+white_hair	白发
+brown_hair	棕发
+black_hair	黑发
+purple_hair	紫发
+red_hair	红发
+blue_hair	蓝发
+green_hair	绿发
 short_hair	短发
 long_hair	长发
 very_long_hair	很长的头发
@@ -185,7 +181,6 @@ small_breasts	小胸部(B
 medium_breasts	中等胸部(C
 large_breasts	大胸部(D
 huge_breasts	巨乳(E
-gigantic_breasts	魔乳(F
 midriff	腹部
 navel	肚脐
 hips	臀部
@@ -286,9 +281,6 @@ open_clothes	敞开衣服
 open_robe	敞开长袍
 skirt_lift	掀起裙子
 undressing	脱衣服中
-panty_pull	内裤拉下来
-pantyshot	内裤走光
-maebari/pasties	阴贴/乳贴
 barefoot	赤脚
 bare_legs	裸足
 striped	横条花纹的
@@ -330,7 +322,7 @@ sailor_collar	水手领
 ribbon_choker	颈带
 necklace	项链
 scarf	围巾
-necktie/tie	领带
+necktie	领带
 armband	臂章
 armlet	臂环
 wristband	腕带
@@ -339,7 +331,8 @@ wrist_cuffs	腕饰
 gloves	手套
 elbow_gloves	长袖手套
 fingerless_gloves	露指手套
-cuffs/shackles	手链/手铐
+cuffs	手链
+shackles	手铐
 handcuffs	手铐
 bracelet	手镯
 cane	手杖
@@ -396,15 +389,11 @@ shorts	短裤
 bike_shorts	自行车短裤
 panties	内裤
 no_panties	没内裤
-trefoil	三角裤给你看
-white_panties	白色内裤
-pink_panties	粉红内裤
 striped_panties	条纹内裤
-lowleg_panties/low_leg_panties	低腰式内裤
-side-tie_panties/himopan	系带式内裤
+lowleg_panties	低腰式内裤
+side-tie_panties	系带式内裤
 thong	丁字裤
 fundoshi	日式丁字裤
-condom	套套
 butt_plug	添加的尾巴
 diaper	尿布
 garter_straps	袜带
