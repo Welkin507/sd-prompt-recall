@@ -1,6 +1,8 @@
-# EnglishWordsElite
+# sd-prompt-recall
 
-EnglishWordsElite is a lightweight English word tester designed to help users enhance their vocabulary through word recitation. The project includes a built-in **stable diffusion prompt word list** (Chinese to English). Users can also customize their word lists by following a simple process.
+**This project is not very interesting because it is mainly used to test and use the functionality of GitHub.**
+
+`sd-prompt-recall` is a lightweight English word tester designed to help users enhance their vocabulary through word recitation. The project includes a built-in **stable diffusion prompt word list** (Chinese to English). Users can also customize their word lists by following a simple process.
 
 ![](./Backup/demo.png)
 
@@ -25,7 +27,7 @@ EnglishWordsElite is a lightweight English word tester designed to help users en
 
 2. **Clone the Repository:**
    ```
-   git clone https://github.com/Welkin507/EnglishWordsElite.git
+   git clone https://github.com/Welkin507/sd-prompt-recall.git
    ```
 
 3. **Run the Program:**
@@ -43,4 +45,4 @@ EnglishWordsElite is a lightweight English word tester designed to help users en
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-Enjoy improving your English vocabulary with EnglishWordsElite!
+Enjoy improving your English vocabulary with sd-prompt-recall!
